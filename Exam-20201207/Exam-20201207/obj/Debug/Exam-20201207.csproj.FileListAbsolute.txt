@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\HomeWorkforJob\Exam-20201207\Exam-20201207\bin\Debug\Exam-20201207.exe.config
+C:\Users\PC\Desktop\HomeWorkforJob\Exam-20201207\Exam-20201207\bin\Debug\Exam-20201207.exe
+C:\Users\PC\Desktop\HomeWorkforJob\Exam-20201207\Exam-20201207\bin\Debug\Exam-20201207.pdb
+C:\Users\PC\Desktop\HomeWorkforJob\Exam-20201207\Exam-20201207\obj\Debug\Exam-20201207.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\HomeWorkforJob\Exam-20201207\Exam-20201207\obj\Debug\Exam-20201207.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HomeWorkforJob\Exam-20201207\Exam-20201207\obj\Debug\Exam-20201207.exe
+C:\Users\PC\Desktop\HomeWorkforJob\Exam-20201207\Exam-20201207\obj\Debug\Exam-20201207.pdb
